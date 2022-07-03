@@ -1,2 +1,2 @@
-# react-component-scaffold-
+# react-component-scaffold
 build component
